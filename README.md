@@ -6,7 +6,7 @@ CMDSR is a novel conditional meta-network framework which helps the SR framework
 
 ## Architecture
 Whole Architecture of CMDSR
-<div align=center><img src="https://github.com/guanghaoyin/CMDSR/blob/main/figs/CMDSR.png" alt="CMDSR" width="640" height="240" align="middle" /></div>
+<div align=center><img src="https://github.com/guanghaoyin/CMDSR/blob/main/figs/CMDSR.png" alt="CMDSR" align="middle" /></div>
 
 
 ## Citation
