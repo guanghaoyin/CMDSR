@@ -12,6 +12,8 @@ Conditional feature extraction at task-level.
 Whole Architecture of CMDSR
 <div align=center><img src="https://github.com/guanghaoyin/CMDSR/blob/main/figs/CMDSR.png" alt="CMDSR" align="middle" /></div>
 
+## SR results for real images
+<div align=center><img src="https://github.com/guanghaoyin/CMDSR/blob/main/figs/Real_img.png" alt="real_img" align="middle" /></div>
 
 ## Citation
 Please cite our [paper](https://arxiv.org/abs/2104.03926) if you use our code or data.
