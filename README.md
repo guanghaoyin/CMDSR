@@ -16,6 +16,9 @@ Whole Architecture of CMDSR
 <div align=center><img src="https://github.com/guanghaoyin/CMDSR/blob/main/figs/real_img1.png" alt="real_img1" align="middle" /></div>
 <div align=center><img src="https://github.com/guanghaoyin/CMDSR/blob/main/figs/real_img2.png" alt="real_img2" align="middle" /></div>
 
+## Trained model download
+You can download our trained model from [Google Driver](https://drive.google.com/file/d/1431EsUDMRjmIhVGv4FwQQTkOQXehlPk5/view?usp=sharing) to test with your own LR image
+
 ## Citation
 Please cite our [paper](https://arxiv.org/abs/2104.03926) if you use our code or data.
 
