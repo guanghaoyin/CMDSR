@@ -20,7 +20,6 @@ Whole Architecture of CMDSR
 You can download our trained model from [Google Driver](https://drive.google.com/file/d/1431EsUDMRjmIhVGv4FwQQTkOQXehlPk5/view?usp=sharing) to test with your own LR image.
 
 ## Citation
-Please cite our [paper](https://arxiv.org/abs/2104.03926) if you use our code or data.
 
 ```
 @article{yin2021conditional,
