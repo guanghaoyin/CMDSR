@@ -24,9 +24,10 @@ You can download our trained model from [Google Driver](https://drive.google.com
 ```
 @article{yin2021conditional,
   title={Conditional Meta-Network for Blind Super-Resolution with Multiple Degradations},
-  author={Yin, Guanghao and Wang, Wei and Yuan, Zehuan and Yu, Dongdong and Sun, Shouqian and Wang, Changhu},
+  author={Yin, Guanghao and Wang, Wei and Yuan, Zehuan and Ji, Wei and Yu, Dongdong and Sun, Shouqian and Chua, Tat-Seng and Wang, Changhu},
   journal={arXiv preprint arXiv:2104.03926},
   year={2021}
 }
+
 
 ```
