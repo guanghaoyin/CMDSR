@@ -1,3 +1,6 @@
+## Update 2022.5.11
+Our paper has been accepted by IEEE Transactions on Image Processing (TIP）！
+
 # CMDSR
 [Conditional Meta-Network for Blind Super-Resolution with Multiple Degradations.](https://arxiv.org/abs/2104.03926)
 
