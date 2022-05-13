@@ -32,5 +32,6 @@ You can download our trained model from [Google Driver](https://drive.google.com
   year={2021}
 }
 
-
+## Acknowledgement
+Thanks for the support of the Sea-NExT Joint Lab and ByteDance AI Lab.
 ```
