@@ -22,6 +22,9 @@ Whole Architecture of CMDSR
 ## Trained model download
 You can download our trained model from [Google Driver](https://drive.google.com/file/d/1431EsUDMRjmIhVGv4FwQQTkOQXehlPk5/view?usp=sharing) to test with your own LR image.
 
+## Acknowledgement
+Thanks for the support of the Sea-NExT Joint Lab and ByteDance AI Lab.
+
 ## Citation
 
 ```
@@ -31,7 +34,4 @@ You can download our trained model from [Google Driver](https://drive.google.com
   journal={arXiv preprint arXiv:2104.03926},
   year={2021}
 }
-
-## Acknowledgement
-Thanks for the support of the Sea-NExT Joint Lab and ByteDance AI Lab.
 ```
