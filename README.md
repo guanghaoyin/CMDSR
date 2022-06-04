@@ -28,10 +28,11 @@ Thanks for the support of Sea-NExT Joint Lab and ByteDance AI Lab.
 ## Citation
 
 ```
-@article{yin2021conditional,
-  title={Conditional Meta-Network for Blind Super-Resolution with Multiple Degradations},
-  author={Yin, Guanghao and Wang, Wei and Yuan, Zehuan and Ji, Wei and Yu, Dongdong and Sun, Shouqian and Chua, Tat-Seng and Wang, Changhu},
-  journal={arXiv preprint arXiv:2104.03926},
-  year={2021}
+@article{yin2022conditional,
+  title={Conditional Hyper-Network for Blind Super-Resolution with Multiple Degradations},
+  author={Yin, Guanghao and Wang, Wei and Yuand, Zehuan and Ji, Wei and Yue, Dongdong and Sun, Shouqian and Chua, Tat-Seng and Wang, Changhu},
+  journal={IEEE Transactions on Image Processing},
+  year={2022},
+  publisher={IEEE}
 }
 ```
